@@ -3,6 +3,19 @@
 #To Run Script run the following command in terminal in the folder script is placed in
 #python webp_converter.py
 
+#Or run it via UV, which auto installs all dependencies.
+#pip install uv
+#uv run webp_converter.py
+
+# /// script
+# dependencies = [
+#   "pillow",
+#   "opencv-python",
+#   "tkinterdnd2",
+#   "tqdm",
+# ]
+# ///
+
 import os
 import shutil
 import zipfile
