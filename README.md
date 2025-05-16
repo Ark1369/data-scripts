@@ -7,6 +7,9 @@ webp_converter.py - Script to Batch Convert files from JPG/PNG to WEBP format fo
     - `pip install pillow opencv-python tkinterdnd2`
 - To Run Script run the following command in terminal in the folder script is placed in
     - `python webp_converter.py`
+- or let UV to handle all dependencies itself, in terminal run following command
+    - `pip install uv` (Once)
+    - `uv run webp_converter`
 
 **Features**
 
