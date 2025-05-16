@@ -4,7 +4,7 @@ Just various data management scripts I make for self use.
 webp_converter.py - Script to Batch Convert files from JPG/PNG to WEBP format for effecient storage.
 ![image](https://github.com/user-attachments/assets/6edd6f21-5f96-4392-874a-d21b5de53813)
 - To install Dependencies - Run the following command in terminal
-    - `pip install pillow opencv-python tkinterdnd2`
+    - `pip install pillow opencv-python tkinterdnd2 tqdm`
 - To Run Script run the following command in terminal in the folder script is placed in
     - `python webp_converter.py`
 - or let UV to handle all dependencies itself, in terminal run following command
