@@ -7,6 +7,7 @@
 #pip install uv
 #uv run webp_converter.py
 
+#----------------Script Starts here----------------#
 # /// script
 # dependencies = [
 #   "pillow",
