@@ -1,5 +1,5 @@
 #To install Dependencies - Run the following command in terminal
-#pip install pillow opencv-python tkinterdnd2
+#pip install pillow opencv-python tkinterdnd2 tqdm
 #To Run Script run the following command in terminal in the folder script is placed in
 #python webp_converter.py
 
