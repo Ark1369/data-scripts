@@ -1,4 +1,8 @@
-#To Run put python webp_converter.py in Terminal in folder script is placed in
+#To install Dependencies - Run the following command in terminal
+#pip install pillow opencv-python tkinterdnd2
+#To Run Script run the following command in terminal in the folder script is placed in
+#python webp_converter.py
+
 import os
 import shutil
 import zipfile
