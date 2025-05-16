@@ -1,3 +1,4 @@
+#To Run put python webp_converter.py in Terminal in folder script is placed in
 import os
 import shutil
 import zipfile
