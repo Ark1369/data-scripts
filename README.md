@@ -1,4 +1,4 @@
-# data-scripts
+# Data-Scripts
 Just various data management scripts I make for self use.
 
 webp_converter.py - Script to Batch Convert files from JPG/PNG to WEBP format for effecient storage.
